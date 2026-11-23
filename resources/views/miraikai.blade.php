@@ -726,7 +726,7 @@
             </div>
         </section>
 
-       
+
 
     <script>
         const form = document.getElementById('purchaseForm');
